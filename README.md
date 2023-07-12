@@ -26,7 +26,7 @@
 
 
 <a name="works"></a>
-## 📜 How it works?
+## ⚙ How it works?
 1. Using a Random, the image has a 2% chance every second to appear on the screen.
 2. Through a flag, after the time passes it makes the image appear/disappear.
 
